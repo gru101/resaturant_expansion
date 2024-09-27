@@ -1,5 +1,5 @@
 # Restaurant Expansion Project
-# Overview
+Overview
 # This project analyzes restaurant data to identify potential locations for new restaurant expansions. It focuses on several key metrics such as competition levels, customer satisfaction, price ranges, and online delivery options, to recommend optimal locations for new establishments.
 
 # Project Objectives
